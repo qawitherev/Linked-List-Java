@@ -14,6 +14,7 @@ public class Main {
 
 //        use addFirst() to add items at the beginning of the list
         cars.addFirst("Mercedes");
+        cars.addFirst("Ford");
         System.out.println(cars);
     }
 }
